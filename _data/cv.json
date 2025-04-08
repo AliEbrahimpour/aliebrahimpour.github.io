@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "aliebrahimpour",
-    "email": "none@example.org",
+    "name": "Ali Ebrahimpour",
+    "email": "ali74e.brahimpour@gmail.com",
     "phone": "",
-    "website": "https://aliebrahimpour.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://123ali.ir",
+    "summary": "Experienced Linux Administrator and Cloud Infrastructure Specialist with over six years of expertise in open-source technologies, system administration, and infrastructure management.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -14,19 +14,19 @@
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
         "username": "aliebrahimpour",
         "url": "https://github.com/aliebrahimpour"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ali-ebrahimpour-ba03bb126",
+        "url": "https://www.linkedin.com/in/ali-ebrahimpour-ba03bb126/"
+      },
+      {
+        "network": "Telegram",
+        "username": "AliEbrahimpour",
+        "url": "https://t.me/AliEbrahimpour"
       }
     ]
   },

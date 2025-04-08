@@ -82,8 +82,11 @@ Experienced Linux Administrator and Cloud Infrastructure Specialist with over si
 
 ## Contact Information
 
-* Email: ali74.ebrahimpour@gmail.com
-* GitHub: [aliebrahimpour](https://github.com/aliebrahimpour)
+* 📧 Email: [ali74e.brahimpour@gmail.com](mailto:ali74e.brahimpour@gmail.com)
+* 💬 Telegram: [@AliEbrahimpour](https://t.me/AliEbrahimpour)
+* 🌐 Website: [123ali.ir](https://123ali.ir)
+* 👨‍💻 GitHub: [@aliebrahimpour](https://github.com/aliebrahimpour)
+* 💼 LinkedIn: [Ali Ebrahimpour](https://www.linkedin.com/in/ali-ebrahimpour-ba03bb126/)
 
 ## Website Information
 
