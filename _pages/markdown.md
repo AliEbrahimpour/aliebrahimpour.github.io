@@ -1,11 +1,91 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Markdown Guide"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
+## Markdown Basics
+
+Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. This guide covers the basic syntax and features of Markdown.
+
+### Basic Formatting
+
+* **Bold**: `**text**` or `__text__`
+* *Italic*: `*text*` or `_text_`
+* ~~Strikethrough~~: `~~text~~`
+* `Code`: `` `code` ``
+* Links: `[text](url)`
+* Images: `![alt text](image_url)`
+
+### Lists
+
+Unordered lists:
+```markdown
+* Item 1
+* Item 2
+  * Sub-item 2.1
+  * Sub-item 2.2
+```
+
+Ordered lists:
+```markdown
+1. First item
+2. Second item
+   1. Sub-item 2.1
+   2. Sub-item 2.2
+```
+
+### Headers
+
+```markdown
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+```
+
+### Code Blocks
+
+```markdown
+```language
+code here
+```
+```
+
+### Tables
+
+```markdown
+| Header 1 | Header 2 |
+|----------|----------|
+| Cell 1   | Cell 2   |
+| Cell 3   | Cell 4   |
+```
+
+### Blockquotes
+
+```markdown
+> This is a blockquote
+> 
+> This is another paragraph in the blockquote
+```
+
+### Horizontal Rules
+
+```markdown
+---
+***
+___
+```
+
+### Resources
+
+* [Markdown Guide](https://www.markdownguide.org/)
+* [GitHub Flavored Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## Locations of key files/directories
 

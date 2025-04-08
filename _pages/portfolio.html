@@ -7,8 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+Welcome to my portfolio showcasing key projects and implementations in cloud infrastructure, system administration, and network solutions. Each project demonstrates my expertise in designing and deploying robust, secure, and scalable IT solutions.
 
-{% for post in site.portfolio %}
+{% for post in site.portfolio reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
