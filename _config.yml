@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Ali Ebrahimpour"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ali Ebrahimpour"
 description              : &description "personal description"
 url                      : https://aliebrahimpour.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "aliebrahimpour/aliebrahimpour.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "aliebrahimpour"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Cloud Architect | Infrastructure, Platform and DevOps Consultant"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "GreenPlus"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ali74.ebrahimpour@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
