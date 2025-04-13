@@ -14,7 +14,7 @@ tags:
 
 Open Virtual Network (OVN) is a powerful network virtualization solution that has become an integral part of OpenStack's networking stack. In this comprehensive guide, we'll explore what OVN is, how it works, and why it's become a preferred choice for OpenStack networking.
 
-![OVN Architecture Overview](/images/ovn-architecture.png)
+![OVN Architecture Overview](https://docs.openvswitch.org/en/latest/_images/ovn-architecture.png)
 
 ## What is OVN?
 
@@ -30,7 +30,7 @@ The Northbound Database is where the logical network configuration is stored. It
 - ACLs (Access Control Lists)
 - Load balancers
 
-![OVN Northbound Database](/images/ovn-nb-db.png)
+![OVN Northbound Database](https://docs.openvswitch.org/en/latest/_images/ovn-nb-db.png)
 
 ### 2. OVN Southbound Database (SB DB)
 The Southbound Database stores the physical network mapping and runtime state:
@@ -47,7 +47,7 @@ The OVN controller is responsible for:
 
 ## OVN in OpenStack Architecture
 
-![OVN OpenStack Integration](/images/ovn-openstack-integration.png)
+![OVN OpenStack Integration](https://docs.openstack.org/neutron/latest/_images/ovn-architecture.png)
 
 OVN integrates with OpenStack through the Neutron API, providing a complete networking solution. Here's how it fits into the OpenStack architecture:
 
@@ -87,7 +87,7 @@ OVN provides:
 
 ## OVN vs Traditional Networking
 
-![OVN vs Traditional Networking](/images/ovn-vs-traditional.png)
+![OVN vs Traditional Networking](https://docs.openstack.org/neutron/latest/_images/ovn-vs-traditional.png)
 
 | Feature | OVN | Traditional Networking |
 |---------|-----|----------------------|

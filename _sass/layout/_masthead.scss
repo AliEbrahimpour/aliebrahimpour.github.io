@@ -64,4 +64,13 @@
     padding-right: 2em;
     font-weight: 700;
   }
+
+  &--subtitle {
+    font-size: 0.8em;
+    color: var(--global-text-color-light);
+    margin-top: -0.5em;
+    margin-bottom: 0.5em;
+    padding-left: 0.5em;
+    border-left: 2px solid var(--global-border-color);
+  }
 }
