@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ali Ebrahimpour"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ali Ebrahimpour"
 description              : &description "personal description"
